@@ -11,7 +11,7 @@ A passionate full stack developer from India
 Connect with me:
 https://leetcode.com/u/Tushar_Chandwani/
 
-Languages and Tools :
+Languages and Tools :c
 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -27,6 +27,8 @@ Languages and Tools :
 
 
 ![Image Description](https://camo.githubusercontent.com/b4fd589743f07ad698aafcd5364a8595d4026d9d129c3d11ba379045049dd1c7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6179757368616e616e646d69736872612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusharchandwanni)](https://git.io/streak-stats)
 
 
 <!--
